@@ -1,0 +1,25 @@
+{
+  "name": "paywall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "back_end.js",
+  "scripts": {
+    "start": "node back_end.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmattos/paywall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dmattos/paywall/issues"
+  },
+  "homepage": "https://github.com/dmattos/paywall#readme",
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}
